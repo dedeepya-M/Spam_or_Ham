@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>SPAM OR HAM</title>
+<link rel="stylesheet" href="../static/spam.css">
+
+</head>
+<body>
+
+<h1>SPAM CLASSIFIER</h1>
+<form action="{{ url_for('predict')}}" method="post">
+<textarea type = 'text' placeholder="Enter the message" name = 'msg' required="required" rows="6" cols = "50" ></textarea>
+<br><br>
+<button><b>check</b></button>
+</form>
+<br><br><br>
+<b><div class="txt">{{ prediction_text }}</b></div>
+</body>
+</html>

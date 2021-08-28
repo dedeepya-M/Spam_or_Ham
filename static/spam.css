@@ -1,0 +1,36 @@
+h1 { color: rgb(255, 254, 254); 
+    text-shadow: 0 0 10px rgba(245, 235, 235, 0.3);
+     letter-spacing:1px;
+      text-align:center; 
+ }
+
+ textarea{
+    height:300px;
+    width: 80%;
+    
+    
+ }
+ textarea,
+    textarea::-webkit-input-placeholder {
+    font-size: 30px;
+    
+    }
+ button
+ {
+     background-color: rgb(226, 222, 226);
+     padding: 28px;
+     cursor: pointer;
+     font-size: 20px;
+     
+ }
+ body
+{background-color: rgb(26, 25, 25);
+    text-align: center;
+    
+}
+.txt
+{
+    text-align: center;
+    color: blanchedalmond;
+    font-size: 50px;
+}
