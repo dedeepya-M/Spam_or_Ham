@@ -19,5 +19,6 @@
 - ```seaborn```
 
 - ```matplotlib```
+- environment to work in ```jupyter``` or ```spyder```
 
 access the model here:https://check-for-spam.herokuapp.com/
