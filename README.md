@@ -9,9 +9,15 @@
 
 ## Prerequisites:
 ```Python```
-scikit-learn / sklearn
-Pandas
-NumPy
-matplotlib
+
+```scikit-learn / sklearn```
+
+```Pandas```
+
+```flask```
+
+```seaborn```
+
+```matplotlib```
 
 access the model here:https://check-for-spam.herokuapp.com/
