@@ -10,14 +10,14 @@
 ## Prerequisites:
 - ```Python```
 
-```scikit-learn / sklearn```
+- ```scikit-learn / sklearn```
 
-```Pandas```
+- ```Pandas```
 
-```flask```
+- ```flask```
 
-```seaborn```
+- ```seaborn```
 
-```matplotlib```
+- ```matplotlib```
 
 access the model here:https://check-for-spam.herokuapp.com/
