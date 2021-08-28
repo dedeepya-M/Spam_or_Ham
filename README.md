@@ -7,4 +7,11 @@
 ![how it does](https://image.slidesharecdn.com/sms-spam-detection-180722164354/95/sms-spamdetection-6-638.jpg?cb=1532277915)
 
 
+## Prerequisites:
+```Python```
+scikit-learn / sklearn
+Pandas
+NumPy
+matplotlib
+
 access the model here:https://check-for-spam.herokuapp.com/
