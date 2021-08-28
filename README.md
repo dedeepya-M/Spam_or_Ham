@@ -23,7 +23,7 @@
 
 ## Dataset:
 The SMS/Email Spam Collection is a set of SMS tagged messages that have been collected for SMS/Email Spam research. It contains one set of SMS messages in English of 5,572 messages, tagged according being ham (legitimate) or spam.
-you can collect data set from ![data](https://www.kaggle.com/uciml/sms-spam-collection-dataset)
+you can collect data set from [data](https://www.kaggle.com/uciml/sms-spam-collection-dataset)
 
 ## Deployment:
 model is deployed using https://www.heroku.com/
