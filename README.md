@@ -8,7 +8,7 @@
 
 
 ## Prerequisites:
-```Python```
+-```Python```
 
 ```scikit-learn / sklearn```
 
