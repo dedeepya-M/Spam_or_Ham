@@ -30,4 +30,4 @@ you can collect data set from [here](https://www.kaggle.com/uciml/sms-spam-colle
 model is deployed using https://www.heroku.com/
 
 
-access the model here:https://check-for-spam.herokuapp.com/
+ wanna check for spam..?click here:https://check-for-spam.herokuapp.com/
